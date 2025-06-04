@@ -1,0 +1,19 @@
+{
+  "name": "zkemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@zk-email/sdk": "^1.0.3",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "zkverifyjs": "^0.14.0"
+  }
+}
