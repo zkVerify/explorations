@@ -1,0 +1,5 @@
+build_mode = "release"
+target_adapters = ["circom"]
+target_platforms = ["ios"]
+ios = ["aarch64-apple-ios-sim"]
+android = []
